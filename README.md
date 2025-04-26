@@ -1,7 +1,7 @@
 ## Optimizing damper placement in automotive mechanical suspension using Bayesian Optimization
 
 ### Overview
-* Parameters of an automotive suspension system are optimized to minimize an objective function that balaances:
+* Parameters of an automotive suspension system are optimized to minimize an objective function that balances:
   * Comfort (Reducing acceleration felt by passengers)
   * Vibration (Minimizing chassis displacement)
   * Handling (Reducing pitch, roll, and tire force variations)
