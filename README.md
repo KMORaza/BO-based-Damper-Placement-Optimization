@@ -1,4 +1,4 @@
-## Optimizing damper placement in automotive mechanical suspension using Bayesian Optimization
+## Optimizing damper placement in automotive mechanical suspension using Bayesian Optimization (BO)
 
 ### Overview
 * Parameters of an automotive suspension system are optimized to minimize an objective function that balances:
