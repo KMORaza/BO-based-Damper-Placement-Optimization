@@ -44,3 +44,7 @@
   * The new result updates the GP, refining predictions.
 * After 30 iterations, the best parameters are returned (e.g., $C_c$ = 3000, $C_r$ = 5000, motion ratio = 1.1, inclination = 8°, objective = 4.8).
 * These values optimize damper placement (via motion ratio and inclination) and damping behavior for the given road profile and vehicle model. 
+
+---
+
+Check [webpage](https://bo-optimal-damper-placement-1.netlify.app/) about the solution 
