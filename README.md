@@ -1,4 +1,4 @@
-## Optimizing damper placement in automotive mechanical suspension using Bayesian Optimization (BO)
+## Optimale Dämpferplatzierung in der mechanischen Fahrzeugaufhängung, entwickelt mit Bayesscher Optimierung und geschrieben in der C-plus-plus-Programmiersprache (Optimizing damper placement in automotive mechanical suspension using Bayesian Optimization and written in C++ programming language)
 
 ### Overview
 * Parameters of an automotive suspension system are optimized to minimize an objective function that balances:
